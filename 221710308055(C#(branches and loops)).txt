@@ -18,8 +18,8 @@ if (a + b > 10)
 else
     Console.WriteLine("The answer is not greater than 10");
 With branching:
-int a = 5;
-int b = 3;
+int a = 3;
+int b = 5;
 if (a + b > 10)
 {
     Console.WriteLine("The answer is greater than 10");
